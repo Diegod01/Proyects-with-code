@@ -132,7 +132,7 @@ df = pd.read_excel('/content/PEDIDOSYA.xlsx')
 
 df
 
-#Preparamos el modelado del modelo de ML para predecir y responder las siguientes preguntas:
+#Preparamos el modelado del modelo de ML para predecir y responder la siguiente pregunta:
 
 # 1: ¿Qué edad tendra el siguiente comprador?
 
